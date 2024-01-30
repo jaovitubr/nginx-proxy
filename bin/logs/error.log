@@ -1,0 +1,15 @@
+2024/01/30 11:53:35 [emerg] 1584#16436: CreateFile() "C:\Users\joaov\Documents\nginx-package\bin/nginx.conf" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 11:56:06 [emerg] 25180#26516: CreateFile() "C:\Users\joaov\Documents\nginx-package\nginx.conf" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 11:56:21 [emerg] 23168#29668: CreateFile() "C:\Users\joaov\Documents\nginx-package\bin/a" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 11:57:15 [emerg] 26216#29032: CreateFile() "C:\Users\joaov\Documents\nginx-package\bin/a" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 12:03:39 [emerg] 2552#10460: CreateFile() "C:\Users\joaov\Documents\nginx-package\nginx.conf" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 12:04:35 [emerg] 28632#29064: CreateFile() "C:\Users\joaov\Documents\nginx-package\bin/a" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 12:07:34 [emerg] 11820#28012: CreateFile() "C:\Users\joaov\Documents\nginx-package\bin/a" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 12:07:56 [emerg] 24416#23064: CreateFile() "C:\Users\joaov\Documents\nginx-package\bin/a" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 12:08:05 [emerg] 30044#29764: CreateFile() "C:\Users\joaov\Documents\nginx-package\a" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 12:08:18 [emerg] 20756#9204: CreateFile() "C:\Users\joaov\Documents\nginx-package\nginx.conf" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 12:09:50 [emerg] 26044#25212: CreateFile() "C:\Users\joaov\Documents\nginx-package\nginx.conf" failed (2: O sistema não pode encontrar o arquivo especificado)
+2024/01/30 12:10:55 [emerg] 13040#18504: block directives are not supported in -g option in command line
+2024/01/30 12:11:18 [emerg] 13652#7652: unexpected end of parameter, expecting ";" in command line
+2024/01/30 12:11:24 [emerg] 30780#30744: block directives are not supported in -g option in command line
+2024/01/30 12:18:46 [emerg] 31616#31704: CreateFile() "C:\Users\joaov\nginx.conf" failed (2: O sistema não pode encontrar o arquivo especificado)

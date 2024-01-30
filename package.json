@@ -1,0 +1,12 @@
+{
+  "name": "nginx-proxy",
+  "version": "1.0.0",
+  "description": "Simplifies the process of starting Nginx with a portable configuration.",
+  "main": "index.js",
+  "bin": {
+    "nginx-proxy": "index.js"
+  },
+  "keywords": [],
+  "author": "João Vitor Machado",
+  "license": "ISC"
+}
