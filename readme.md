@@ -4,7 +4,7 @@
   <a href="https://shields.io/" target="_blank">
     <img src="https://img.shields.io/github/languages/top/jaovitubr/nginx-proxy?color=brightgreenn" alt="Main Lang"/>
   </a>
-  <a href="https://github.com/bwhybrow23" target="_blank">
+  <a href="https://github.com/jaovitubr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-jaovitubr-blue.svg?logo=github&logoColor=FFF" alt="GitHub"/>
   </a>
 </p>

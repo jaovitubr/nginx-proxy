@@ -54,6 +54,10 @@ nginxProcess.stdout.pipe(process.stdout);
 nginxProcess.stderr.pipe(process.stderr);
 process.stdin.pipe(nginxProcess.stdin);
 
+nginxProcess.on("spawn", () => {
+  console.log("Nginx started.");
+});
+
 nginxProcess.on("error", (err) => {
   console.error(`Error starting Nginx: ${err.message}`);
   process.exit(1);
