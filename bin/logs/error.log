@@ -1,0 +1,7 @@
+2024/08/05 17:17:35 [emerg] 13768#20848: CreateFile() "C:\Users\joaov\Downloads\nginx-proxy\nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/05 17:17:48 [emerg] 22520#16068: CreateFile() "C:\Users\joaov\Downloads\nginx-proxy\nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/05 17:18:28 [emerg] 15568#25264: CreateFile() "C:\Users\joaov\Downloads\nginx-proxy\nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/05 17:19:22 [emerg] 17712#12656: CreateFile() "C:\Users\joaov\Downloads\nginx-proxy\nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/05 17:20:11 [emerg] 7920#11812: CreateFile() "C:\Users\joaov\Downloads\nginx-proxy\nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/05 17:20:18 [emerg] 6828#11940: CreateFile() "C:\Users\joaov\Downloads\nginx-proxy\nginx.conf" failed (2: The system cannot find the file specified)
+2024/08/05 17:20:24 [emerg] 9320#8812: CreateFile() "C:\Users\joaov\Downloads\nginx-proxy\nginx.conf" failed (2: The system cannot find the file specified)

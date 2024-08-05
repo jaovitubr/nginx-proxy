@@ -50,16 +50,18 @@ switch (platform()) {
     process.exit(1);
 }
 
+console.log(`Starting nginx with command "${nginxProcess.spawnargs.join(" ")}".`);
+
 nginxProcess.stdout.pipe(process.stdout);
 nginxProcess.stderr.pipe(process.stderr);
 process.stdin.pipe(nginxProcess.stdin);
 
 nginxProcess.on("spawn", () => {
-  console.log("Nginx started.");
+  setTimeout(() => console.log("Nginx started."), 300);
 });
 
 nginxProcess.on("error", (err) => {
-  console.error(`Error starting Nginx: ${err.message}`);
+  console.error(`Error starting nginx: ${err.message}`);
   process.exit(1);
 });
 
