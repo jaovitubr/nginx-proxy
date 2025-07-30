@@ -69,3 +69,16 @@ nginxProcess.on("exit", (code, signal) => {
   console.log(`Nginx exited with code ${code} and signal ${signal}.`);
   process.exit(code);
 });
+
+function shutdown() {
+  if (nginxProcess) {
+    console.log("Shutting down nginx...");
+    nginxProcess.kill("SIGTERM");
+  }
+
+  process.exit();
+}
+
+process.on("SIGINT", shutdown);
+process.on("SIGTERM", shutdown);
+process.on("exit", shutdown);
